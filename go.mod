@@ -1,10 +1,10 @@
-module github.com/juanmaAV/go-echo-blueprint
+module github.com/juanMaAV92/go-echo-blueprint
 
 go 1.25.0
 
 require (
 	github.com/joho/godotenv v1.5.1
-	github.com/juanmaAV/go-utils v0.0.0
+	github.com/juanMaAV92/go-utils v1.2.0
 	github.com/labstack/echo/v4 v4.15.1
 	go.opentelemetry.io/contrib/instrumentation/github.com/labstack/echo/otelecho v0.63.0
 )
@@ -45,6 +45,3 @@ require (
 	google.golang.org/grpc v1.80.0 // indirect
 	google.golang.org/protobuf v1.36.11 // indirect
 )
-
-// Remove this line when go-utils is published to GitHub
-replace github.com/juanmaAV/go-utils => ../go-utils

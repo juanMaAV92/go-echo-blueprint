@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/joho/godotenv"
-	"github.com/juanmaAV/go-utils/env"
-	"github.com/juanmaAV/go-utils/telemetry"
+	"github.com/juanMaAV92/go-utils/env"
+	"github.com/juanMaAV92/go-utils/telemetry"
 )
 
 // ServiceName is the canonical name of this service.

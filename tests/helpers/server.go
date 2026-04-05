@@ -3,9 +3,9 @@ package helpers
 import (
 	"time"
 
-	"github.com/juanmaAV/go-echo-blueprint/config"
-	"github.com/juanmaAV/go-echo-blueprint/server"
-	"github.com/juanmaAV/go-utils/logger"
+	"github.com/juanMaAV92/go-echo-blueprint/config"
+	"github.com/juanMaAV92/go-echo-blueprint/server"
+	"github.com/juanMaAV92/go-utils/logger"
 )
 
 // NewTestServer builds a Server configured for testing.

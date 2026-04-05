@@ -1,8 +1,8 @@
 package server
 
 import (
-	"github.com/juanmaAV/go-echo-blueprint/internal/health"
-	"github.com/juanmaAV/go-utils/middleware/identity"
+	"github.com/juanMaAV92/go-echo-blueprint/internal/health"
+	"github.com/juanMaAV92/go-utils/middleware/identity"
 	"github.com/labstack/echo/v4/middleware"
 	"go.opentelemetry.io/contrib/instrumentation/github.com/labstack/echo/otelecho"
 )

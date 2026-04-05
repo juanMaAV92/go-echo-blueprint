@@ -4,10 +4,10 @@ import (
 	"context"
 	"os"
 
-	"github.com/juanmaAV/go-echo-blueprint/config"
-	"github.com/juanmaAV/go-echo-blueprint/internal/health"
-	"github.com/juanmaAV/go-utils/logger"
-	"github.com/juanmaAV/go-utils/telemetry"
+	"github.com/juanMaAV92/go-echo-blueprint/config"
+	"github.com/juanMaAV92/go-echo-blueprint/internal/health"
+	"github.com/juanMaAV92/go-utils/logger"
+	"github.com/juanMaAV92/go-utils/telemetry"
 )
 
 const (

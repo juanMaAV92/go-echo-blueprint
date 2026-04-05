@@ -4,10 +4,10 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/juanmaAV/go-echo-blueprint/internal/health"
-	"github.com/juanmaAV/go-echo-blueprint/tests/helpers"
-	echotest "github.com/juanmaAV/go-utils/testutil/echo"
-	httptest "github.com/juanmaAV/go-utils/testutil/http"
+	"github.com/juanMaAV92/go-echo-blueprint/internal/health"
+	"github.com/juanMaAV92/go-echo-blueprint/tests/helpers"
+	echotest "github.com/juanMaAV92/go-utils/testutil/echo"
+	httptest "github.com/juanMaAV92/go-utils/testutil/http"
 )
 
 func Test_HealthCheck(t *testing.T) {

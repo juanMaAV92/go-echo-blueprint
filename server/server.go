@@ -8,10 +8,10 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/juanmaAV/go-echo-blueprint/config"
-	echoerr "github.com/juanmaAV/go-utils/errors/echo"
-	"github.com/juanmaAV/go-utils/logger"
-	"github.com/juanmaAV/go-utils/validator"
+	"github.com/juanMaAV92/go-echo-blueprint/config"
+	echoerr "github.com/juanMaAV92/go-utils/errors/echo"
+	"github.com/juanMaAV92/go-utils/logger"
+	"github.com/juanMaAV92/go-utils/validator"
 	"github.com/labstack/echo/v4"
 )
 
